@@ -18,9 +18,6 @@ This site showcases my projects, skills, and contact information. It’s designe
 - Contact section or form 📬
 - Smooth scrolling navigation 🔽
 
-## 📸 Screenshots
-
-*(Add screenshots of your homepage, projects section, etc.)*
 
 ## 📦 Installation
 
